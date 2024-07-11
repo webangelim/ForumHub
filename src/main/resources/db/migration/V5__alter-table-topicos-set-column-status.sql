@@ -1,0 +1,1 @@
+update topicos set status =1;
